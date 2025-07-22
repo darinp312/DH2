@@ -19761,4 +19761,16 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
+	flygonultra: {
+		num: -10000,
+		name: "Flygon-Ultra",
+		baseSpecies: "Flygon",
+		forme: "Ultra",
+		types: ["Steel", "Dragon"],
+		baseStats: {hp: 80, atk: 90, def: 110, spa: 75, spd: 90, spe: 75},
+		abilities: {0: "Thick Fat", 1: "Weak Armor", H: "Tinted Lens"},
+		heightm: 1.9,
+		weightkg: 170,
+		eggGroups: ["Bug", "Dragon"],
+	},
 };

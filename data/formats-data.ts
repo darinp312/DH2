@@ -6038,4 +6038,8 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		isNonstandard: "Custom",
 		tier: "Illegal",
 	},
+	flygonultra: {
+		isNonstandard: "Custom",
+		tier: "OU",
+	},
 };
